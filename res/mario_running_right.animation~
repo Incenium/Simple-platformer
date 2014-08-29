@@ -1,0 +1,7 @@
+{
+    "spritesheet":"res/mario.spritesheet",
+
+    "frames":["mario_standing_rightt", "mario_running_right_1", "mario_running_right_2", "mario_running_right_3"],
+
+    "update_time":65
+}

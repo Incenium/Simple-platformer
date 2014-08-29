@@ -1,0 +1,14 @@
+{
+    "folders":
+    [
+        {
+            "path":"src",
+            "file_exclude_patterns":["*.*~"]
+        },
+
+        {
+            "path":"include",
+            "file_exclude_patterns":["*.*~"]
+        }
+    ]
+}

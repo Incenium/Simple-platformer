@@ -1,0 +1,7 @@
+When making a tileset:
+
+* All tiles must have uniform width and height
+
+* All tiles must have uniform margin and uniform spacing (x,y padding)
+
+* The first tile of every row must start at 0x

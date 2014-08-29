@@ -1,0 +1,4 @@
+when loading texture: res/moving_platformm.png
+
+Unable to load texture res/moving_platformm.png!, SDL_image error: Couldn't open res/moving_platformm.png
+

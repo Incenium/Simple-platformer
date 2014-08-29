@@ -1,0 +1,70 @@
+{
+    "texture":"res/smw_mario_sheet.png",
+
+    "sprites":
+    [
+        {
+            "name":"mario_standing_right",
+            "x":208,
+            "y":76,
+            "w":15,
+            "h":28
+        },
+
+        {
+            "name":"mario_running_right_1",
+            "x":207,
+            "y":156,
+            "w":18,
+            "h":28
+        },
+
+        {
+            "name":"mario_running_right_2",
+            "x":247,
+            "y":156,
+            "w":18,
+            "h":27
+        },
+
+        {
+            "name":"mario_running_right_3",
+            "x":287,
+            "y":156,
+            "w":18,
+            "h":28
+        },
+        
+        {
+            "name":"mario_standing_left",
+            "xs":169,
+            "y":76,
+            "w":15,
+            "h":28
+        },
+
+        {
+            "name":"mario_running_left_1",
+            "x":168,
+            "y":156,
+            "w":18,
+            "h":28
+        },
+
+        {
+            "name":"mario_running_left_2",
+            "x":127,
+            "y":156,
+            "w":18,
+            "h":27
+        },
+
+        {
+            "name":"mario_running_left_3",
+            "x":88,
+            "y":156,
+            "w":18,
+            "h":28
+        }
+    ]
+}

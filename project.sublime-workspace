@@ -1,0 +1,454 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"scre",
+				"screenHeight"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"MARIO_R",
+				"MARIO_RUNNING_RIGHT"
+			],
+			[
+				"up",
+				"updateTimer"
+			],
+			[
+				"m_runningLeft",
+				"m_runningLeft"
+			],
+			[
+				"m_",
+				"m_velocity"
+			],
+			[
+				"m_runn",
+				"m_runningRight"
+			],
+			[
+				"m_r",
+				"m_runningLeft"
+			],
+			[
+				"mario",
+				"marioMusic"
+			],
+			[
+				"h",
+				"h"
+			],
+			[
+				"animation",
+				"animation"
+			],
+			[
+				"D",
+				"DEBUG_LOG"
+			],
+			[
+				"SCREEN",
+				"SCREEN_TICKS_PER_FRAME"
+			],
+			[
+				"m_time",
+				"m_timeSinceLast"
+			],
+			[
+				"line",
+				"linenum"
+			],
+			[
+				"update",
+				"m_updateTime"
+			],
+			[
+				"m_pa",
+				"m_pausedTicks"
+			],
+			[
+				"m_paused",
+				"m_paused"
+			],
+			[
+				"sprite",
+				"spritesheets"
+			],
+			[
+				"res",
+				"resManager"
+			],
+			[
+				"time",
+				"time_point"
+			],
+			[
+				"lin",
+				"linenum"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"nullptr",
+				"nullptr"
+			],
+			[
+				"SD",
+				"SDL"
+			],
+			[
+				"optim",
+				"optimizedSurface"
+			],
+			[
+				"window",
+				"window"
+			],
+			[
+				"def",
+				"definition"
+			],
+			[
+				"END",
+				"END_WORD_TYPE_TAG"
+			],
+			[
+				"END_Tag",
+				"END_DEF_TAG_1"
+			],
+			[
+				"Tix",
+				"TiXmlText"
+			],
+			[
+				"curl",
+				"curl_easy_setopt"
+			],
+			[
+				"curl_eas",
+				"curl_easy_setopt"
+			],
+			[
+				"cu",
+				"curl"
+			],
+			[
+				"T",
+				"T"
+			],
+			[
+				"find",
+				"find_first_of"
+			],
+			[
+				"error",
+				"error"
+			],
+			[
+				"GLFWWindow",
+				"GLFWwindow"
+			],
+			[
+				"program",
+				"program"
+			],
+			[
+				"glGetE",
+				"glGetError"
+			],
+			[
+				"score",
+				"scoreString"
+			],
+			[
+				"int",
+				"int"
+			],
+			[
+				"c",
+				"collisionBox"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 32.0,
+		"selected_items":
+		[
+		],
+		"width": 384.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/andrew/sdl tuts/src/Mario.cpp",
+		"/home/andrew/sdl tuts/src/Animation.cpp",
+		"/home/andrew/sdl tuts/platformer",
+		"/home/andrew/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/andrew/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/andrew/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/andrew/sdl tuts/include/Timer.hpp",
+		"/home/andrew/sdl tuts/include/Texture.hpp",
+		"/home/andrew/sdl tuts/include/Spritesheet.hpp",
+		"/home/andrew/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/andrew/platformer/include/TileMap.hpp",
+		"/home/andrew/platformer/include/TileMap.cpp",
+		"/home/andrew/sdl tuts/src/ResourceManager.cpp",
+		"/home/andrew/platformer/include/ResourceManager.hpp",
+		"/home/andrew/platformer/src/ResourceManager.cpp",
+		"/home/andrew/platformer/src/Player.cpp",
+		"/home/andrew/platformer/res/resources.res",
+		"/home/andrew/platformer/res/spritesheets/player.spritesheet",
+		"/home/andrew/QT experiments/chat program/main.cpp",
+		"/home/andrew/test.cpp",
+		"/home/andrew/platformer/src/Main.cpp",
+		"/home/andrew/libpng test/src/Image.cpp",
+		"/home/andrew/libpng test/include/Image.hpp",
+		"/home/andrew/libpng test/src/main.cpp",
+		"/home/andrew/libpng test/main.cpp",
+		"/home/andrew/QT experiments/main.cpp",
+		"/home/andrew/QT experiments/Communicate.hpp",
+		"/home/andrew/QT experiments/Communicate.cpp",
+		"/home/andrew/QT experiments/Menu.hpp",
+		"/home/andrew/QT experiments/Menu.cpp",
+		"/home/andrew/platformer/res/animations/player_running.animation",
+		"/home/andrew/Downloads/tiled-qt-0.9.1/src/plugins/json/jsonplugin.cpp",
+		"/home/andrew/Downloads/tiled-qt-0.9.1/src/plugins/json/maptovariantconverter.cpp",
+		"/home/andrew/platformer/src/TileMap.cpp",
+		"/home/andrew/platformer/include/Tile.hpp",
+		"/home/andrew/platformer/src/Tile.cpp",
+		"/home/andrew/sdl tuts/src/Mario.hpp",
+		"/home/andrew/sdl tuts/src/main.cpp",
+		"/home/andrew/c++luatest/strutil.hpp",
+		"/home/andrew/test.animation",
+		"/home/andrew/resources",
+		"/home/andrew/sdl tuts/res/koopa.json",
+		"/home/andrew/sdl tuts/res/resources.res",
+		"/home/andrew/platformer/src/TODO.txt",
+		"/home/andrew/platformer/res/animations/player.animation",
+		"/home/andrew/platformer/include/Player.hpp",
+		"/home/andrew/platformer/Main.cpp",
+		"/home/andrew/QubiqEngine/src/main.cpp",
+		"/home/andrew/sdl tuts/src/Texture.cpp",
+		"/home/andrew/sdl tuts/src/Spritesheet.cpp",
+		"/home/andrew/sdl tuts/include/Animation.hpp",
+		"/home/andrew/sdl tuts/src/Music.cpp",
+		"/home/andrew/sdl tuts/include/Music.hpp",
+		"/home/andrew/sdl tuts/include/SoundEffect.hpp",
+		"/home/andrew/.config/sublime-text-2/Packages/User/functioncomment.sublime-snippet",
+		"/home/andrew/.config/sublime-text-2/Packages/User/filecomment.sublime-snippet",
+		"/home/andrew/sdl tuts/src/SoundEffect.cpp",
+		"/home/andrew/sdl tuts/src/Timer.hpp",
+		"/home/andrew/sdl tuts/src/Timer.cpp",
+		"/home/andrew/sdl tuts/src/ResourceManager.hpp",
+		"/home/andrew/sdl tuts/src/Music.hpp",
+		"/home/andrew/sdl tuts/src/Animation.hpp",
+		"/home/andrew/sdl tuts/src/Texture.hpp",
+		"/home/andrew/sdl tuts/src/Spritesheet.hpp",
+		"/home/andrew/sdl tuts/src/SoundEffect.hpp",
+		"/home/andrew/sdl tuts/res/mariorunning.animation",
+		"/home/andrew/sdl tuts/src/SpriteSheet.hpp",
+		"/home/andrew/sdl tuts/src/SpriteSheet.cpp",
+		"/home/andrew/sdl tuts/src/Logger.hpp",
+		"/home/andrew/sdl tuts/src/Logger.cpp",
+		"/home/andrew/QubiqEngine/src/graphics/Qtexture.cpp",
+		"/home/andrew/QubiqEngine/Includes/Qubiq/graphics/Qtexture.hpp",
+		"/home/andrew/sdl tuts/main.cpp",
+		"/home/andrew/c++luatest/c++lua.cpp",
+		"/home/andrew/c++luatest/LuaScript.hpp",
+		"/home/andrew/c++luatest/LuaScript.cpp",
+		"/home/andrew/c++luatest/LuaContext.hpp",
+		"/home/andrew/c++luatest/LuaContext.cpp",
+		"/home/andrew/VocabQuiz Helper/src/main.cpp",
+		"/home/andrew/VocabQuiz Helper/README",
+		"/home/andrew/quizHelper/src/main.cpp",
+		"/home/andrew/quizHelper/definitions.txt",
+		"/home/andrew/quizHelper/README",
+		"/home/andrew/quizHelper/definitionstest.txt",
+		"/home/andrew/QubiqEngine/src/utils/resourceManager.cpp",
+		"/home/andrew/QubiqEngine/src/sound/Qmusic.cpp",
+		"/home/andrew/QubiqEngine/src/sound/Qsoundeffect.cpp",
+		"/home/andrew/QubiqEngine/src/graphics/Qspritesheet.cpp",
+		"/home/andrew/QubiqEngine/Includes/Qubiq/graphics/Qspritesheet.hpp",
+		"/home/andrew/QubiqEngine/Includes/Qubiq/sound/Qsoundeffect.hpp",
+		"/home/andrew/QubiqEngine/Includes/Qubiq/sound/Qmusic.hpp",
+		"/home/andrew/QubiqEngine/Includes/Qubiq/utils/resourceManager.hpp",
+		"/home/andrew/c++luatest/luatest.lua",
+		"/home/andrew/c++luatest/luatest2.lua",
+		"/home/andrew/QubiqEngine/Includes/Qubiq/typedefs.hpp",
+		"/home/andrew/Opengl/src/shader.hpp",
+		"/home/andrew/Opengl/src/mesh.hpp",
+		"/home/andrew/Opengl/src/mesh.cpp",
+		"/home/andrew/Opengl/src/shader.cpp",
+		"/home/andrew/Opengl/src/main.cpp",
+		"/home/andrew/Opengl/shader.cpp",
+		"/home/andrew/Opengl/shader.h",
+		"/home/andrew/Opengl/main.cpp",
+		"/home/andrew/Opengl/Graphics.hpp",
+		"/home/andrew/Pong/src/paddle.h",
+		"/home/andrew/Pong/src/paddle.cpp",
+		"/home/andrew/Pong/src/main.cpp",
+		"/home/andrew/Pong/src/ball.cpp",
+		"/home/andrew/Pong/src/ball.h",
+		"/home/andrew/Flappy fall/src/main.cpp",
+		"/home/andrew/Flappy fall/src/bird.cpp",
+		"/home/andrew/Flappy fall/src/bird.h",
+		"/home/andrew/Tetris/src/vector.cpp",
+		"/home/andrew/Tetris/src/vector.h",
+		"/home/andrew/Tetris/src/tetromino.cc",
+		"/home/andrew/Tetris/src/tetromino.h",
+		"/home/andrew/Tetris/grid.cc",
+		"/home/andrew/Tetris/src/timer.cc",
+		"/home/andrew/Tetris/src/timer.h",
+		"/home/andrew/Tetris/src/main.cc",
+		"/home/andrew/Tetris/tetromino.h",
+		"/home/andrew/Tetris/makefile"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#",
+			"the",
+			"Window",
+			"window"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"tex",
+				"/home/andrew/sdl tuts/src/Texture.cpp"
+			],
+			[
+				"main",
+				"/home/andrew/sdl tuts/src/main.cpp"
+			],
+			[
+				"ac",
+				"/home/andrew/sdl tuts/src/Animation.cpp"
+			],
+			[
+				"acpp",
+				"/home/andrew/sdl tuts/src/Animation.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
